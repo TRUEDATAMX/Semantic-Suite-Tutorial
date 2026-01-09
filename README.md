@@ -20,7 +20,7 @@ npm install
 
 ## 📚 Tutorial Steps
 
-1. **Upload Documentation** - Add your files via the [Semantic Suite dashboard](https://semantic-suite.truedata.com.mx/dashboard/files)
+1. **Upload Documentation** - Add your files via the [Semantic Suite dashboard](https://semantic-suite.truedata.com.mx/dashboard/upload)
 2. **Get API Key** - Generate your key in [Settings](https://semantic-suite.truedata.com.mx/dashboard/settings)
 3. **Follow Tutorial** - Complete the interactive guide [here](https://semantic-suite.truedata.com.mx/dashboard/tutorial)
 
