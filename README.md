@@ -1,6 +1,6 @@
 # Semantic Suite AI Chatbot Tutorial
 
-Build an intelligent chatbot using the Semantic Suite API in under 30 minutes!
+Build an intelligent chatbot using the Semantic Suite API in under 15 minutes!
 
 ## 🚀 Quick Start with GitHub Codespaces
 
